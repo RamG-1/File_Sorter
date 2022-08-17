@@ -1,12 +1,12 @@
 import os
 import shutil
 
-src_dir = "C:/Users/ramgu/Downloads"
-doc_dest = "C:/Users/ramgu/Downloads/Download Document"
-img_dest = "C:/Users/ramgu/Downloads/Download Images"
-vid_dest = "C:/Users/ramgu/Downloads/Download Videos"
-aud_dest = "C:/Users/ramgu/Downloads/Download Audios"
-mix_dest = "C:/Users/ramgu/Downloads/Download Unknowns"
+src_dir = "Your Source Path"
+doc_dest = "Doc Folder Destination Path"
+img_dest = "Img Folder Path"
+vid_dest = "Video Folder Path"
+aud_dest = "Audio Folder Dest Path"
+mix_dest = "Mix Files Folder Dest Path"
 #Image_Xtensions
 image_extensions = (".jpg", ".jpeg", ".JPG", ".jpe", ".jif", ".jfif", ".jfi", ".png", ".gif", ".webp", ".tiff", ".tif", ".psd", ".raw", ".arw", ".cr2", ".nrw",
                     ".k25", ".bmp", ".dib", ".heif", ".heic", ".ind", ".indd", ".indt", ".jp2", ".j2k", ".jpf", ".jpf", ".jpx", ".jpm", ".mj2", ".svg", ".svgz", ".ai", ".eps", ".ico")
